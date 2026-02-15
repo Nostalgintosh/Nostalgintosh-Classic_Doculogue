@@ -26,3 +26,22 @@ sudo pacman-key --populate archlinux manjaro
 sudo pacman -Syn
 ```
 Note: Ensure no graphical update tools (like ADD/Remove Software) are open, or it will cause a "Database Look" error
+
+## Maintence logue
+### Date: Debuary 15, 2026
+#### System: Manjaro Kde (Nostalginths Archive)
+
+ Status: Recoverd & Update
+
+## The Core Issue is the Margical Trust loop.
+
+As we talk about after long period of inactivity, the system entered a failure loop where updates were as "Invalid or Corrupted."
+
+
+
+...
+
+Ather all of the removel just do a simple: Note the Add/Remove Software will crash run it on the Konsole.
+```bash
+sudo pacman -Syu
+```
